@@ -1,5 +1,4 @@
-# Romp
-## A web app for gamers!
+# Deployable Heroku React App
 
 ### To start: 
 
